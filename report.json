@@ -1,0 +1,1 @@
+{"id":"0ebad808-ea8c-483a-81d1-41afc99fa417","title":"[Native integration test] 软件内反馈与重试验收","description":"维护者合成验收，非用户缺陷。真实开发版 Electron 帮助菜单窗口直接连接正式 HTTPS 服务，主动选取合成图片。模拟第一次成功写入后回执中断，重试应返回同一 Issue，不重复建单。未使用私人文稿或日志。正式打包验收仍待完成，验收后关闭此记录。","version":"43.6.0","platform":"darwin","language":"other","images":1}
