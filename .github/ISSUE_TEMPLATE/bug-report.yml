@@ -1,0 +1,40 @@
+name: "反馈bug / Report a bug"
+description: "Inkmoss 软件故障 / Inkmoss software bugs"
+title: "[Bug] "
+labels: [bug, "status:triage"]
+assignees: [JunZhaoNathan]
+body:
+  - type: markdown
+    attributes:
+      value: "此反馈公开。请勿包含私人文稿、个人资料或密钥。 / Reports are public. Remove private writing, personal information and secrets."
+  - type: input
+    id: version
+    attributes:
+      label: "版本 / Version"
+      placeholder: "3.0.15 / build"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: "系统 / System"
+      options: [macOS, Windows, Linux, "其他 / Other"]
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: "文稿语言 / Document language"
+      options: [Inkmoss, LaTeX, Typst, Markdown, "无关 / Not applicable"]
+  - type: textarea
+    id: bug
+    attributes:
+      label: "Bug 描述 / Bug description"
+      description: "复现步骤、实际结果与预期结果。 / Steps, actual result and expected result."
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "图片 / Images"
+      description: "可拖入或粘贴已脱敏的截图。 / Drop or paste screenshots with private information removed."
