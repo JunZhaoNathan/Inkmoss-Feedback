@@ -4,7 +4,8 @@ Inkmoss 官方公开 bug 反馈通道。
 
 [反馈bug](https://inkmoss.ink/feedback/) · [查看处理进度](https://github.com/JunZhaoNathan/Inkmoss-Feedback/issues)
 
-在软件的“帮助 → 反馈bug”或上方表单填写文字、选择图片，无需 GitHub 账号。
+在上方表单填写文字、选择图片，无需 GitHub 账号。软件内“帮助 → 反馈bug”入口
+正在为 3.0.15 准备。
 也可使用 [GitHub 模板](https://github.com/JunZhaoNathan/Inkmoss-Feedback/issues/new?template=bug-report.yml)。
 反馈默认分配给维护者；后续复现、修复与发布状态
 记录在同一条 issue 中。状态标签为 `status:triage`、`status:confirmed`、
@@ -20,8 +21,9 @@ The official public bug tracker for Inkmoss.
 
 [Report a bug](https://inkmoss.ink/feedback/?locale=en) · [Track bugs](https://github.com/JunZhaoNathan/Inkmoss-Feedback/issues)
 
-Use **Help → Report a bug** or the form above to submit text and selected images.
-No GitHub account is needed. The [GitHub template](https://github.com/JunZhaoNathan/Inkmoss-Feedback/issues/new?template=bug-report.yml) is also available.
+Use the form above to submit text and selected images without a GitHub account.
+The in-app **Help → Report a bug** entry is being prepared for 3.0.15.
+The [GitHub template](https://github.com/JunZhaoNathan/Inkmoss-Feedback/issues/new?template=bug-report.yml) is also available.
 Reports are assigned to the
 maintainer. Reproduction, fixes and release status stay in the same issue. Status
 labels are `status:triage`, `status:confirmed`, `status:in-progress` and `status:fixed`;
