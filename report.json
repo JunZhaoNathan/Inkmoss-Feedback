@@ -1,0 +1,1 @@
+{"id":"4f21d333-5b34-44be-b7d6-75a6bb073e1c","title":"[Integration test] 软件内文字和图片反馈验收","description":"这是一条维护者创建的合成验收记录，不是用户缺陷。验证正式 HTTPS 表单 → 无存储转发 → 专用 GitHub App → Issue 与主动选择的测试图片。无私人文稿、路径、凭据或自动诊断数据。验收完成后关闭。","version":"3.0.15-dev","platform":"darwin","language":"other","images":1}
